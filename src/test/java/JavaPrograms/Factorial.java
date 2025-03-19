@@ -12,8 +12,8 @@ public class Factorial {
 
 		for(int i=n;i>=1;i--) {
 		  
-		//  fact = fact * i;
-		  fact  *= i;
+		  fact = fact * i;
+		//  fact  *= i;
 		}
 		
 		System.out.println("The Factorial of "+n+" is: "+fact);
