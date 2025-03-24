@@ -3,7 +3,7 @@ package Practice;
 public class Boolean {
 
 	public static void main(String[] args) {
-		// Hungry + Biriyani = Eat F
+		// Hungry + Biriyani = Eat
 		
 		boolean Hungry = true;
 		boolean Biriyani = false;
